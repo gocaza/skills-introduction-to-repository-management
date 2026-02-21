@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gocaza
+/src/backend/database.py      @gocaza
+/src/backend/routers/auth.py  @gocaza
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gocaza
